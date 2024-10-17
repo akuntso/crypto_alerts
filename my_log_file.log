@@ -1,0 +1,53 @@
+2024-07-14 17:57:28,690 - INFO - Executing task 'send telegram message' for price changed over 10%
+2024-07-14 17:57:28,691 - INFO - I'm running on thread <_MainThread(MainThread, started 23548)>
+2024-07-14 17:58:32,270 - INFO - Going to 'Coinglass'
+2024-07-14 17:58:44,957 - INFO - Waiting for 'Consent popup to appear'
+2024-07-14 17:58:49,990 - WARNING - Consent popup was not appeared
+2024-07-14 17:58:49,992 - INFO - Going to 'Filter'
+2024-07-14 17:58:51,229 - INFO - Selecting 'Price Change'
+2024-07-14 17:58:53,094 - INFO - Selecting 'Close'
+2024-07-14 17:58:53,384 - INFO - Filter for price over 10% was succssesfuly applied
+2024-07-14 17:58:53,432 - INFO - Waiting for data to display 2 sec
+2024-07-14 17:58:55,452 - INFO - Fetching coins from site table
+2024-07-14 17:58:55,487 - INFO - No Data to display on website
+2024-07-14 17:58:55,788 - WARNING - Checking photo name if new exists
+2024-07-14 17:58:55,789 - ERROR - Screenshot name is -- None
+2024-07-14 18:00:00,130 - INFO - Going to 'Coinglass'
+2024-07-14 18:00:17,595 - INFO - Waiting for 'Consent popup to appear'
+2024-07-14 18:00:22,623 - WARNING - Consent popup was not appeared
+2024-07-14 18:00:22,624 - INFO - Going to 'Filter'
+2024-07-14 18:00:24,757 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2024-07-14 18:00:56,595 - INFO - Executing task 'send telegram message' for price changed over 10%
+2024-07-14 18:00:56,596 - INFO - I'm running on thread <_MainThread(MainThread, started 29288)>
+2024-07-14 18:02:00,427 - INFO - Going to 'Coinglass'
+2024-07-14 18:02:12,650 - INFO - Waiting for 'Consent popup to appear'
+2024-07-14 18:02:17,681 - WARNING - Consent popup was not appeared
+2024-07-14 18:02:17,681 - INFO - Going to 'Filter'
+2024-07-14 18:02:20,684 - INFO - Selecting 'Price Change'
+2024-07-14 18:02:27,747 - INFO - Selecting 'Close'
+2024-07-14 18:02:30,993 - INFO - Filter for price over 10% was succssesfuly applied
+2024-07-14 18:02:31,085 - INFO - Waiting for data to display 2 sec
+2024-07-14 18:02:33,146 - INFO - Fetching coins from site table
+2024-07-14 18:02:33,200 - INFO - No Data to display on website
+2024-07-14 18:02:33,820 - WARNING - Checking photo name if new exists
+2024-07-14 18:02:33,821 - ERROR - Screenshot name is -- None
+2024-08-12 20:02:22,097 - INFO - Executing task 'send telegram message' for price changed over 1%
+2024-08-12 20:02:22,099 - INFO - I'm running on thread <_MainThread(MainThread, started 20072)>
+2024-08-12 20:03:29,069 - INFO - Going to 'Coinglass'
+2024-08-12 20:03:38,763 - INFO - Waiting for 'Consent popup to appear'
+2024-08-12 20:03:43,854 - WARNING - Consent popup was not appeared
+2024-08-12 20:03:43,855 - INFO - Going to 'Filter'
+2024-08-12 20:03:45,786 - INFO - Selecting 'Price Change'
+2024-08-12 20:03:52,175 - INFO - Selecting 'Close'
+2024-08-12 20:03:53,542 - INFO - Filter for price over 1% was succssesfuly applied
+2024-08-12 20:03:53,601 - INFO - Waiting for data to display 2 sec
+2024-08-12 20:03:55,627 - INFO - Fetching coins from site table
+2024-08-12 20:03:55,679 - INFO - Preparing data for Telegram bot
+2024-08-12 20:03:55,680 - INFO - Writing coin data to the file
+2024-08-12 20:03:55,686 - INFO - Saving screenshot - 1%_Price__2024-08-12_20-03-55.png
+2024-08-12 20:03:56,976 - WARNING - Checking photo name if new exists
+2024-08-12 20:03:56,977 - INFO - Sending Photo to the chat
+2024-08-12 20:03:59,101 - INFO - Response is -- <Response [200]>
+2024-08-12 20:05:02,268 - INFO - Going to 'Coinglass'
